@@ -1,0 +1,4 @@
+Build a portfolio single page application (SPA) with the knowledge in HTML and CSS.
+Use the link below as refernece and duplicate the website.
+
+link: https://www.brianadjei.com/
